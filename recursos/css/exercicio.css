@@ -27,3 +27,15 @@ body.exercicio {
 
 .navegacao > a.verde { background-color: #4CAF50 }
 .navegacao > a.vermelho { background-color: #F44336 }
+
+.conteudo {
+    font-size: 2rem;
+}
+
+.conteudo > .titulo {
+    font-size: 2.5rem; /* Tamanho da fonte */
+    font-weight: 300px; /* Espessura da fonte*/
+    padding-bottom: 10px; /* Cria preenchimento */
+    border-bottom: 1px solid #999; /* Borda na parte de baixo */
+    margin-bottom: 20px; /* Margem para não ficar grudado */
+}
